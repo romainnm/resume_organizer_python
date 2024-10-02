@@ -1,0 +1,4 @@
+# Files and folder ignored
+/__pycache__
+/.venv
+/config.py
